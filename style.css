@@ -29,7 +29,7 @@ button {
     background-color: #1f2937;
     display: flex;
     flex-direction: column;
-    padding: 15px 370px
+    padding: 15px 250px;
 }
 
 .hero-header {
@@ -119,7 +119,7 @@ button.signup{
 }
 
 .quote-section {
-    padding: 150px 500px;
+    padding: 150px 300px;
     background-color: #e5e7eb;
 }
 
