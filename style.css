@@ -21,7 +21,7 @@ a{
 
 button {
     border-radius: 8px;
-    padding: 6px 18px;
+    padding: 8px 24px;
 }
 
 .hero {
@@ -143,10 +143,35 @@ button.signup{
     background-color: white;    
 }
 .footer-contact {
-    padding: 75px;
+    padding: 50px 150px;
     background-color: #3882f6;
     border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+.footer-contact-text {
+    color: #F9FAF8;
+}
+
+.footer-contact-header {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.footer-contact-body {
+    font-size: 18px;
+}
+
+button.contact{
+    background: #3882f6;
+    border: 2px solid white;
+    color: white;
+    font-weight: 900;
+    font-size: 16px;
+}
+
 /*
 .hero {
     color: white;
